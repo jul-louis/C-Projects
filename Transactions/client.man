@@ -1,0 +1,16 @@
+.TH Assignment_3 1 CLIENT 11/30/2021
+
+.SH NAME
+client \- CMPUT 379 Assignment 3 CLIENT
+
+.SH SYNOPSIS
+.B "./"client port_number ip_address
+
+.SH DESCRIPTION
+.B client
+
+.SH AUTHOR
+Louie Xie <jxie1@ualberta.ca>
+
+.SH
+

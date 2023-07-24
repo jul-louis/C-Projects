@@ -1,0 +1,16 @@
+.TH Assignment_3 1 SERVER 11/30/2021
+
+.SH NAME
+server \- CMPUT 379 Assignment 3 SERVER
+
+.SH SYNOPSIS
+.B "./"server port_number
+
+.SH DESCRIPTION
+.B server
+
+.SH AUTHOR
+Louie Xie <jxie1@ualberta.ca>
+
+.SH
+
